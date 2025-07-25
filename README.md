@@ -14,7 +14,7 @@ This project was developed as part of the **AI Remove Barriers** term project to
 
 ## How It Works
 
-1. The student selects a **topic** (e.g., "World War II", "Binary Search", "Photosynthesis")
+1. The student selects a **topic** that they're interested in studying 
 2. The system uses **Google's Gemini API** to generate a **multiple-choice question** with four answer options.
 3. The student selects an answer (A–D).
 4. Gemini evaluates the response and gives **personalized, constructive feedback**, including a helpful tip.
@@ -36,7 +36,7 @@ This project was developed as part of the **AI Remove Barriers** term project to
 
 1. Clone or download this repo / ZIP
 
-2. Open the `tutor_app_colab.ipynb` file in [Google Colab](https://colab.research.google.com)
+2. Open the `AI_Project.ipynb` file in [Google Colab](https://colab.research.google.com)
 
 3. Install dependencies (if not already installed):
 ```python
